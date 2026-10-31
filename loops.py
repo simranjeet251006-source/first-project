@@ -2,5 +2,6 @@ a = "enter user  input   :"
 
 while True:
     todo = input(a)
-    todos = [todo]
+    todos = [todo] 
+    print("test")
     
